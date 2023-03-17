@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\SNikolov\\Desktop\\VTU Things\\unnamed\\TaxiManagerOnline\\Data\\TaxiManager.Data.Common\\TaxiManager.Data.Common.csproj": {}
+    "D:\\TaxiManagerOnline\\Data\\TaxiManager.Data.Common\\TaxiManager.Data.Common.csproj": {}
   },
   "projects": {
-    "C:\\Users\\SNikolov\\Desktop\\VTU Things\\unnamed\\TaxiManagerOnline\\Data\\TaxiManager.Data.Common\\TaxiManager.Data.Common.csproj": {
+    "D:\\TaxiManagerOnline\\Data\\TaxiManager.Data.Common\\TaxiManager.Data.Common.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\SNikolov\\Desktop\\VTU Things\\unnamed\\TaxiManagerOnline\\Data\\TaxiManager.Data.Common\\TaxiManager.Data.Common.csproj",
+        "projectUniqueName": "D:\\TaxiManagerOnline\\Data\\TaxiManager.Data.Common\\TaxiManager.Data.Common.csproj",
         "projectName": "TaxiManager.Data.Common",
-        "projectPath": "C:\\Users\\SNikolov\\Desktop\\VTU Things\\unnamed\\TaxiManagerOnline\\Data\\TaxiManager.Data.Common\\TaxiManager.Data.Common.csproj",
-        "packagesPath": "C:\\Users\\SNikolov\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\SNikolov\\Desktop\\VTU Things\\unnamed\\TaxiManagerOnline\\Data\\TaxiManager.Data.Common\\obj\\",
+        "projectPath": "D:\\TaxiManagerOnline\\Data\\TaxiManager.Data.Common\\TaxiManager.Data.Common.csproj",
+        "packagesPath": "C:\\Users\\VDenchev\\.nuget\\packages\\",
+        "outputPath": "D:\\TaxiManagerOnline\\Data\\TaxiManager.Data.Common\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\SNikolov\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\VDenchev\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

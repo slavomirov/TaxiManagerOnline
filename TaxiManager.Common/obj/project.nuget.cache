@@ -1,11 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "DOFZfGiiV06fYc5Fxtnh7+Q73ZEy1njTy6Py4oAJVJxLrBBLiAspP0v3Db/oheIyyxDK6Ro9+AnoJnm43wPYww==",
+  "dgSpecHash": "kbkicaEgaQFfi6oXSfPgQGJx8tT8lhilZYbEskLiYLYYTwvtJv7rv8Miq5k44taJosiStfJc9moU0/bY7G4X6g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\SNikolov\\Desktop\\VTU Things\\unnamed\\TaxiManagerOnline\\TaxiManager.Common\\TaxiManager.Common.csproj",
+  "projectFilePath": "D:\\TaxiManagerOnline\\TaxiManager.Common\\TaxiManager.Common.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\SNikolov\\.nuget\\packages\\stylecop.analyzers\\1.2.0-beta.435\\stylecop.analyzers.1.2.0-beta.435.nupkg.sha512",
-    "C:\\Users\\SNikolov\\.nuget\\packages\\stylecop.analyzers.unstable\\1.2.0.435\\stylecop.analyzers.unstable.1.2.0.435.nupkg.sha512"
+    "C:\\Users\\VDenchev\\.nuget\\packages\\stylecop.analyzers\\1.2.0-beta.435\\stylecop.analyzers.1.2.0-beta.435.nupkg.sha512",
+    "C:\\Users\\VDenchev\\.nuget\\packages\\stylecop.analyzers.unstable\\1.2.0.435\\stylecop.analyzers.unstable.1.2.0.435.nupkg.sha512"
   ],
   "logs": []
 }
