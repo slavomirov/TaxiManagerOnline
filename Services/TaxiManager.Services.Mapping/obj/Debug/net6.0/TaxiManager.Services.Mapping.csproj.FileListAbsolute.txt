@@ -22,3 +22,15 @@ C:\Users\SNikolov\Desktop\VTU Things\unnamed\TaxiManagerOnline\Services\TaxiMana
 C:\Users\SNikolov\Desktop\VTU Things\unnamed\TaxiManagerOnline\Services\TaxiManager.Services.Mapping\obj\Debug\net6.0\refint\TaxiManager.Services.Mapping.dll
 C:\Users\SNikolov\Desktop\VTU Things\unnamed\TaxiManagerOnline\Services\TaxiManager.Services.Mapping\obj\Debug\net6.0\TaxiManager.Services.Mapping.pdb
 C:\Users\SNikolov\Desktop\VTU Things\unnamed\TaxiManagerOnline\Services\TaxiManager.Services.Mapping\obj\Debug\net6.0\ref\TaxiManager.Services.Mapping.dll
+D:\TaxiManagerOnline\Services\TaxiManager.Services.Mapping\bin\Debug\net6.0\TaxiManager.Services.Mapping.deps.json
+D:\TaxiManagerOnline\Services\TaxiManager.Services.Mapping\bin\Debug\net6.0\TaxiManager.Services.Mapping.dll
+D:\TaxiManagerOnline\Services\TaxiManager.Services.Mapping\bin\Debug\net6.0\TaxiManager.Services.Mapping.pdb
+D:\TaxiManagerOnline\Services\TaxiManager.Services.Mapping\obj\Debug\net6.0\TaxiManager.Services.Mapping.csproj.AssemblyReference.cache
+D:\TaxiManagerOnline\Services\TaxiManager.Services.Mapping\obj\Debug\net6.0\TaxiManager.Services.Mapping.GeneratedMSBuildEditorConfig.editorconfig
+D:\TaxiManagerOnline\Services\TaxiManager.Services.Mapping\obj\Debug\net6.0\TaxiManager.Services.Mapping.AssemblyInfoInputs.cache
+D:\TaxiManagerOnline\Services\TaxiManager.Services.Mapping\obj\Debug\net6.0\TaxiManager.Services.Mapping.AssemblyInfo.cs
+D:\TaxiManagerOnline\Services\TaxiManager.Services.Mapping\obj\Debug\net6.0\TaxiManager.Services.Mapping.csproj.CoreCompileInputs.cache
+D:\TaxiManagerOnline\Services\TaxiManager.Services.Mapping\obj\Debug\net6.0\TaxiManager.Services.Mapping.dll
+D:\TaxiManagerOnline\Services\TaxiManager.Services.Mapping\obj\Debug\net6.0\refint\TaxiManager.Services.Mapping.dll
+D:\TaxiManagerOnline\Services\TaxiManager.Services.Mapping\obj\Debug\net6.0\TaxiManager.Services.Mapping.pdb
+D:\TaxiManagerOnline\Services\TaxiManager.Services.Mapping\obj\Debug\net6.0\ref\TaxiManager.Services.Mapping.dll

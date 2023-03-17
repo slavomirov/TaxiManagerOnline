@@ -22,3 +22,15 @@ C:\Users\SNikolov\Desktop\VTU Things\unnamed\TaxiManagerOnline\Services\TaxiMana
 C:\Users\SNikolov\Desktop\VTU Things\unnamed\TaxiManagerOnline\Services\TaxiManager.Services.Messaging\obj\Debug\net6.0\refint\TaxiManager.Services.Messaging.dll
 C:\Users\SNikolov\Desktop\VTU Things\unnamed\TaxiManagerOnline\Services\TaxiManager.Services.Messaging\obj\Debug\net6.0\TaxiManager.Services.Messaging.pdb
 C:\Users\SNikolov\Desktop\VTU Things\unnamed\TaxiManagerOnline\Services\TaxiManager.Services.Messaging\obj\Debug\net6.0\ref\TaxiManager.Services.Messaging.dll
+D:\TaxiManagerOnline\Services\TaxiManager.Services.Messaging\bin\Debug\net6.0\TaxiManager.Services.Messaging.deps.json
+D:\TaxiManagerOnline\Services\TaxiManager.Services.Messaging\bin\Debug\net6.0\TaxiManager.Services.Messaging.dll
+D:\TaxiManagerOnline\Services\TaxiManager.Services.Messaging\bin\Debug\net6.0\TaxiManager.Services.Messaging.pdb
+D:\TaxiManagerOnline\Services\TaxiManager.Services.Messaging\obj\Debug\net6.0\TaxiManager.Services.Messaging.csproj.AssemblyReference.cache
+D:\TaxiManagerOnline\Services\TaxiManager.Services.Messaging\obj\Debug\net6.0\TaxiManager.Services.Messaging.GeneratedMSBuildEditorConfig.editorconfig
+D:\TaxiManagerOnline\Services\TaxiManager.Services.Messaging\obj\Debug\net6.0\TaxiManager.Services.Messaging.AssemblyInfoInputs.cache
+D:\TaxiManagerOnline\Services\TaxiManager.Services.Messaging\obj\Debug\net6.0\TaxiManager.Services.Messaging.AssemblyInfo.cs
+D:\TaxiManagerOnline\Services\TaxiManager.Services.Messaging\obj\Debug\net6.0\TaxiManager.Services.Messaging.csproj.CoreCompileInputs.cache
+D:\TaxiManagerOnline\Services\TaxiManager.Services.Messaging\obj\Debug\net6.0\TaxiManager.Services.Messaging.dll
+D:\TaxiManagerOnline\Services\TaxiManager.Services.Messaging\obj\Debug\net6.0\refint\TaxiManager.Services.Messaging.dll
+D:\TaxiManagerOnline\Services\TaxiManager.Services.Messaging\obj\Debug\net6.0\TaxiManager.Services.Messaging.pdb
+D:\TaxiManagerOnline\Services\TaxiManager.Services.Messaging\obj\Debug\net6.0\ref\TaxiManager.Services.Messaging.dll

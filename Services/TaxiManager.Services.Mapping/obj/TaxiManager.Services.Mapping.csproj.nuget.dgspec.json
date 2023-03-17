@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\SNikolov\\Desktop\\VTU Things\\unnamed\\TaxiManagerOnline\\Services\\TaxiManager.Services.Mapping\\TaxiManager.Services.Mapping.csproj": {}
+    "D:\\TaxiManagerOnline\\Services\\TaxiManager.Services.Mapping\\TaxiManager.Services.Mapping.csproj": {}
   },
   "projects": {
-    "C:\\Users\\SNikolov\\Desktop\\VTU Things\\unnamed\\TaxiManagerOnline\\Services\\TaxiManager.Services.Mapping\\TaxiManager.Services.Mapping.csproj": {
+    "D:\\TaxiManagerOnline\\Services\\TaxiManager.Services.Mapping\\TaxiManager.Services.Mapping.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\SNikolov\\Desktop\\VTU Things\\unnamed\\TaxiManagerOnline\\Services\\TaxiManager.Services.Mapping\\TaxiManager.Services.Mapping.csproj",
+        "projectUniqueName": "D:\\TaxiManagerOnline\\Services\\TaxiManager.Services.Mapping\\TaxiManager.Services.Mapping.csproj",
         "projectName": "TaxiManager.Services.Mapping",
-        "projectPath": "C:\\Users\\SNikolov\\Desktop\\VTU Things\\unnamed\\TaxiManagerOnline\\Services\\TaxiManager.Services.Mapping\\TaxiManager.Services.Mapping.csproj",
-        "packagesPath": "C:\\Users\\SNikolov\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\SNikolov\\Desktop\\VTU Things\\unnamed\\TaxiManagerOnline\\Services\\TaxiManager.Services.Mapping\\obj\\",
+        "projectPath": "D:\\TaxiManagerOnline\\Services\\TaxiManager.Services.Mapping\\TaxiManager.Services.Mapping.csproj",
+        "packagesPath": "C:\\Users\\VDenchev\\.nuget\\packages\\",
+        "outputPath": "D:\\TaxiManagerOnline\\Services\\TaxiManager.Services.Mapping\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\SNikolov\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\VDenchev\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

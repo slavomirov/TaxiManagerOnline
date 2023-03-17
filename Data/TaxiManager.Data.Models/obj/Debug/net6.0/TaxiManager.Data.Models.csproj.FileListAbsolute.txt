@@ -28,3 +28,18 @@ C:\Users\SNikolov\Desktop\VTU Things\unnamed\TaxiManagerOnline\Data\TaxiManager.
 C:\Users\SNikolov\Desktop\VTU Things\unnamed\TaxiManagerOnline\Data\TaxiManager.Data.Models\obj\Debug\net6.0\refint\TaxiManager.Data.Models.dll
 C:\Users\SNikolov\Desktop\VTU Things\unnamed\TaxiManagerOnline\Data\TaxiManager.Data.Models\obj\Debug\net6.0\TaxiManager.Data.Models.pdb
 C:\Users\SNikolov\Desktop\VTU Things\unnamed\TaxiManagerOnline\Data\TaxiManager.Data.Models\obj\Debug\net6.0\ref\TaxiManager.Data.Models.dll
+D:\TaxiManagerOnline\Data\TaxiManager.Data.Models\bin\Debug\net6.0\TaxiManager.Data.Models.deps.json
+D:\TaxiManagerOnline\Data\TaxiManager.Data.Models\bin\Debug\net6.0\TaxiManager.Data.Models.dll
+D:\TaxiManagerOnline\Data\TaxiManager.Data.Models\bin\Debug\net6.0\TaxiManager.Data.Models.pdb
+D:\TaxiManagerOnline\Data\TaxiManager.Data.Models\bin\Debug\net6.0\TaxiManager.Data.Common.dll
+D:\TaxiManagerOnline\Data\TaxiManager.Data.Models\bin\Debug\net6.0\TaxiManager.Data.Common.pdb
+D:\TaxiManagerOnline\Data\TaxiManager.Data.Models\obj\Debug\net6.0\TaxiManager.Data.Models.csproj.AssemblyReference.cache
+D:\TaxiManagerOnline\Data\TaxiManager.Data.Models\obj\Debug\net6.0\TaxiManager.Data.Models.GeneratedMSBuildEditorConfig.editorconfig
+D:\TaxiManagerOnline\Data\TaxiManager.Data.Models\obj\Debug\net6.0\TaxiManager.Data.Models.AssemblyInfoInputs.cache
+D:\TaxiManagerOnline\Data\TaxiManager.Data.Models\obj\Debug\net6.0\TaxiManager.Data.Models.AssemblyInfo.cs
+D:\TaxiManagerOnline\Data\TaxiManager.Data.Models\obj\Debug\net6.0\TaxiManager.Data.Models.csproj.CoreCompileInputs.cache
+D:\TaxiManagerOnline\Data\TaxiManager.Data.Models\obj\Debug\net6.0\TaxiManager.Data.Models.csproj.CopyComplete
+D:\TaxiManagerOnline\Data\TaxiManager.Data.Models\obj\Debug\net6.0\TaxiManager.Data.Models.dll
+D:\TaxiManagerOnline\Data\TaxiManager.Data.Models\obj\Debug\net6.0\refint\TaxiManager.Data.Models.dll
+D:\TaxiManagerOnline\Data\TaxiManager.Data.Models\obj\Debug\net6.0\TaxiManager.Data.Models.pdb
+D:\TaxiManagerOnline\Data\TaxiManager.Data.Models\obj\Debug\net6.0\ref\TaxiManager.Data.Models.dll

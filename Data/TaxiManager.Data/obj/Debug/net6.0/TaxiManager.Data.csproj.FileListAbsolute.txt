@@ -42,3 +42,25 @@ C:\Users\SNikolov\Desktop\VTU Things\unnamed\TaxiManagerOnline\Data\TaxiManager.
 C:\Users\SNikolov\Desktop\VTU Things\unnamed\TaxiManagerOnline\Data\TaxiManager.Data\obj\Debug\net6.0\TaxiManager.Data.pdb
 C:\Users\SNikolov\Desktop\VTU Things\unnamed\TaxiManagerOnline\Data\TaxiManager.Data\obj\Debug\net6.0\TaxiManager.Data.genruntimeconfig.cache
 C:\Users\SNikolov\Desktop\VTU Things\unnamed\TaxiManagerOnline\Data\TaxiManager.Data\obj\Debug\net6.0\ref\TaxiManager.Data.dll
+D:\TaxiManagerOnline\Data\TaxiManager.Data\bin\Debug\net6.0\appsettings.json
+D:\TaxiManagerOnline\Data\TaxiManager.Data\bin\Debug\net6.0\TaxiManager.Data.deps.json
+D:\TaxiManagerOnline\Data\TaxiManager.Data\bin\Debug\net6.0\TaxiManager.Data.runtimeconfig.json
+D:\TaxiManagerOnline\Data\TaxiManager.Data\bin\Debug\net6.0\TaxiManager.Data.dll
+D:\TaxiManagerOnline\Data\TaxiManager.Data\bin\Debug\net6.0\TaxiManager.Data.pdb
+D:\TaxiManagerOnline\Data\TaxiManager.Data\bin\Debug\net6.0\TaxiManager.Common.dll
+D:\TaxiManagerOnline\Data\TaxiManager.Data\bin\Debug\net6.0\TaxiManager.Data.Common.dll
+D:\TaxiManagerOnline\Data\TaxiManager.Data\bin\Debug\net6.0\TaxiManager.Data.Models.dll
+D:\TaxiManagerOnline\Data\TaxiManager.Data\bin\Debug\net6.0\TaxiManager.Common.pdb
+D:\TaxiManagerOnline\Data\TaxiManager.Data\bin\Debug\net6.0\TaxiManager.Data.Common.pdb
+D:\TaxiManagerOnline\Data\TaxiManager.Data\bin\Debug\net6.0\TaxiManager.Data.Models.pdb
+D:\TaxiManagerOnline\Data\TaxiManager.Data\obj\Debug\net6.0\TaxiManager.Data.csproj.AssemblyReference.cache
+D:\TaxiManagerOnline\Data\TaxiManager.Data\obj\Debug\net6.0\TaxiManager.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\TaxiManagerOnline\Data\TaxiManager.Data\obj\Debug\net6.0\TaxiManager.Data.AssemblyInfoInputs.cache
+D:\TaxiManagerOnline\Data\TaxiManager.Data\obj\Debug\net6.0\TaxiManager.Data.AssemblyInfo.cs
+D:\TaxiManagerOnline\Data\TaxiManager.Data\obj\Debug\net6.0\TaxiManager.Data.csproj.CoreCompileInputs.cache
+D:\TaxiManagerOnline\Data\TaxiManager.Data\obj\Debug\net6.0\TaxiManager.Data.csproj.CopyComplete
+D:\TaxiManagerOnline\Data\TaxiManager.Data\obj\Debug\net6.0\TaxiManager.Data.dll
+D:\TaxiManagerOnline\Data\TaxiManager.Data\obj\Debug\net6.0\refint\TaxiManager.Data.dll
+D:\TaxiManagerOnline\Data\TaxiManager.Data\obj\Debug\net6.0\TaxiManager.Data.pdb
+D:\TaxiManagerOnline\Data\TaxiManager.Data\obj\Debug\net6.0\TaxiManager.Data.genruntimeconfig.cache
+D:\TaxiManagerOnline\Data\TaxiManager.Data\obj\Debug\net6.0\ref\TaxiManager.Data.dll

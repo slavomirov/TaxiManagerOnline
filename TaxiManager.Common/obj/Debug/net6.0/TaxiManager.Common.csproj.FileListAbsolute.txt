@@ -22,3 +22,15 @@ C:\Users\SNikolov\Desktop\VTU Things\unnamed\TaxiManagerOnline\TaxiManager.Commo
 C:\Users\SNikolov\Desktop\VTU Things\unnamed\TaxiManagerOnline\TaxiManager.Common\obj\Debug\net6.0\refint\TaxiManager.Common.dll
 C:\Users\SNikolov\Desktop\VTU Things\unnamed\TaxiManagerOnline\TaxiManager.Common\obj\Debug\net6.0\TaxiManager.Common.pdb
 C:\Users\SNikolov\Desktop\VTU Things\unnamed\TaxiManagerOnline\TaxiManager.Common\obj\Debug\net6.0\ref\TaxiManager.Common.dll
+D:\TaxiManagerOnline\TaxiManager.Common\bin\Debug\net6.0\TaxiManager.Common.deps.json
+D:\TaxiManagerOnline\TaxiManager.Common\bin\Debug\net6.0\TaxiManager.Common.dll
+D:\TaxiManagerOnline\TaxiManager.Common\bin\Debug\net6.0\TaxiManager.Common.pdb
+D:\TaxiManagerOnline\TaxiManager.Common\obj\Debug\net6.0\TaxiManager.Common.csproj.AssemblyReference.cache
+D:\TaxiManagerOnline\TaxiManager.Common\obj\Debug\net6.0\TaxiManager.Common.GeneratedMSBuildEditorConfig.editorconfig
+D:\TaxiManagerOnline\TaxiManager.Common\obj\Debug\net6.0\TaxiManager.Common.AssemblyInfoInputs.cache
+D:\TaxiManagerOnline\TaxiManager.Common\obj\Debug\net6.0\TaxiManager.Common.AssemblyInfo.cs
+D:\TaxiManagerOnline\TaxiManager.Common\obj\Debug\net6.0\TaxiManager.Common.csproj.CoreCompileInputs.cache
+D:\TaxiManagerOnline\TaxiManager.Common\obj\Debug\net6.0\TaxiManager.Common.dll
+D:\TaxiManagerOnline\TaxiManager.Common\obj\Debug\net6.0\refint\TaxiManager.Common.dll
+D:\TaxiManagerOnline\TaxiManager.Common\obj\Debug\net6.0\TaxiManager.Common.pdb
+D:\TaxiManagerOnline\TaxiManager.Common\obj\Debug\net6.0\ref\TaxiManager.Common.dll

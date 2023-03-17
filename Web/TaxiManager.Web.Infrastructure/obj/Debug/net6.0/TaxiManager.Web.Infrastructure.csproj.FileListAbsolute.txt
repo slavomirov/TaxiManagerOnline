@@ -22,3 +22,15 @@ C:\Users\SNikolov\Desktop\VTU Things\unnamed\TaxiManagerOnline\Web\TaxiManager.W
 C:\Users\SNikolov\Desktop\VTU Things\unnamed\TaxiManagerOnline\Web\TaxiManager.Web.Infrastructure\obj\Debug\net6.0\refint\TaxiManager.Web.Infrastructure.dll
 C:\Users\SNikolov\Desktop\VTU Things\unnamed\TaxiManagerOnline\Web\TaxiManager.Web.Infrastructure\obj\Debug\net6.0\TaxiManager.Web.Infrastructure.pdb
 C:\Users\SNikolov\Desktop\VTU Things\unnamed\TaxiManagerOnline\Web\TaxiManager.Web.Infrastructure\obj\Debug\net6.0\ref\TaxiManager.Web.Infrastructure.dll
+D:\TaxiManagerOnline\Web\TaxiManager.Web.Infrastructure\bin\Debug\net6.0\TaxiManager.Web.Infrastructure.deps.json
+D:\TaxiManagerOnline\Web\TaxiManager.Web.Infrastructure\bin\Debug\net6.0\TaxiManager.Web.Infrastructure.dll
+D:\TaxiManagerOnline\Web\TaxiManager.Web.Infrastructure\bin\Debug\net6.0\TaxiManager.Web.Infrastructure.pdb
+D:\TaxiManagerOnline\Web\TaxiManager.Web.Infrastructure\obj\Debug\net6.0\TaxiManager.Web.Infrastructure.csproj.AssemblyReference.cache
+D:\TaxiManagerOnline\Web\TaxiManager.Web.Infrastructure\obj\Debug\net6.0\TaxiManager.Web.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\TaxiManagerOnline\Web\TaxiManager.Web.Infrastructure\obj\Debug\net6.0\TaxiManager.Web.Infrastructure.AssemblyInfoInputs.cache
+D:\TaxiManagerOnline\Web\TaxiManager.Web.Infrastructure\obj\Debug\net6.0\TaxiManager.Web.Infrastructure.AssemblyInfo.cs
+D:\TaxiManagerOnline\Web\TaxiManager.Web.Infrastructure\obj\Debug\net6.0\TaxiManager.Web.Infrastructure.csproj.CoreCompileInputs.cache
+D:\TaxiManagerOnline\Web\TaxiManager.Web.Infrastructure\obj\Debug\net6.0\TaxiManager.Web.Infrastructure.dll
+D:\TaxiManagerOnline\Web\TaxiManager.Web.Infrastructure\obj\Debug\net6.0\refint\TaxiManager.Web.Infrastructure.dll
+D:\TaxiManagerOnline\Web\TaxiManager.Web.Infrastructure\obj\Debug\net6.0\TaxiManager.Web.Infrastructure.pdb
+D:\TaxiManagerOnline\Web\TaxiManager.Web.Infrastructure\obj\Debug\net6.0\ref\TaxiManager.Web.Infrastructure.dll
