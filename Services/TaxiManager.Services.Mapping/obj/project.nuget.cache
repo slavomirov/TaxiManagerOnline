@@ -1,13 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "gUyWBwXVS/qdrTbg3UO7ljPUA0rQ8uXyChZWxoJNn5JZrBm9P0ItptDcU0+ZEehYjvPPVCSvjLFSd0xSmaT1xw==",
+  "dgSpecHash": "uNXN8O4eGrOOY4dkJ1WkCTIH81oD1+rSSvfKEJYXz9gTt1i54h4vWbGHHXmF6H/qf0sNH1zdR4pLVtxl6ppvnA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\spart\\Desktop\\TaxiManager\\Services\\TaxiManager.Services.Mapping\\TaxiManager.Services.Mapping.csproj",
+  "projectFilePath": "C:\\Users\\SNikolov\\Desktop\\VTU Things\\unnamed\\TaxiManagerOnline\\Services\\TaxiManager.Services.Mapping\\TaxiManager.Services.Mapping.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\spart\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
-    "C:\\Users\\spart\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
-    "C:\\Users\\spart\\.nuget\\packages\\stylecop.analyzers\\1.2.0-beta.435\\stylecop.analyzers.1.2.0-beta.435.nupkg.sha512",
-    "C:\\Users\\spart\\.nuget\\packages\\stylecop.analyzers.unstable\\1.2.0.435\\stylecop.analyzers.unstable.1.2.0.435.nupkg.sha512"
+    "C:\\Users\\SNikolov\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
+    "C:\\Users\\SNikolov\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\SNikolov\\.nuget\\packages\\stylecop.analyzers\\1.2.0-beta.435\\stylecop.analyzers.1.2.0-beta.435.nupkg.sha512",
+    "C:\\Users\\SNikolov\\.nuget\\packages\\stylecop.analyzers.unstable\\1.2.0.435\\stylecop.analyzers.unstable.1.2.0.435.nupkg.sha512"
   ],
   "logs": []
 }

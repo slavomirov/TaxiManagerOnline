@@ -17,3 +17,22 @@ C:\Users\spart\Desktop\TaxiManager\Web\TaxiManager.Web.ViewModels\obj\Debug\net6
 C:\Users\spart\Desktop\TaxiManager\Web\TaxiManager.Web.ViewModels\obj\Debug\net6.0\refint\TaxiManager.Web.ViewModels.dll
 C:\Users\spart\Desktop\TaxiManager\Web\TaxiManager.Web.ViewModels\obj\Debug\net6.0\TaxiManager.Web.ViewModels.pdb
 C:\Users\spart\Desktop\TaxiManager\Web\TaxiManager.Web.ViewModels\obj\Debug\net6.0\ref\TaxiManager.Web.ViewModels.dll
+C:\Users\SNikolov\Desktop\VTU Things\unnamed\TaxiManagerOnline\Web\TaxiManager.Web.ViewModels\bin\Debug\net6.0\TaxiManager.Web.ViewModels.deps.json
+C:\Users\SNikolov\Desktop\VTU Things\unnamed\TaxiManagerOnline\Web\TaxiManager.Web.ViewModels\bin\Debug\net6.0\TaxiManager.Web.ViewModels.dll
+C:\Users\SNikolov\Desktop\VTU Things\unnamed\TaxiManagerOnline\Web\TaxiManager.Web.ViewModels\bin\Debug\net6.0\TaxiManager.Web.ViewModels.pdb
+C:\Users\SNikolov\Desktop\VTU Things\unnamed\TaxiManagerOnline\Web\TaxiManager.Web.ViewModels\bin\Debug\net6.0\TaxiManager.Data.Common.dll
+C:\Users\SNikolov\Desktop\VTU Things\unnamed\TaxiManagerOnline\Web\TaxiManager.Web.ViewModels\bin\Debug\net6.0\TaxiManager.Data.Models.dll
+C:\Users\SNikolov\Desktop\VTU Things\unnamed\TaxiManagerOnline\Web\TaxiManager.Web.ViewModels\bin\Debug\net6.0\TaxiManager.Services.Mapping.dll
+C:\Users\SNikolov\Desktop\VTU Things\unnamed\TaxiManagerOnline\Web\TaxiManager.Web.ViewModels\bin\Debug\net6.0\TaxiManager.Data.Models.pdb
+C:\Users\SNikolov\Desktop\VTU Things\unnamed\TaxiManagerOnline\Web\TaxiManager.Web.ViewModels\bin\Debug\net6.0\TaxiManager.Services.Mapping.pdb
+C:\Users\SNikolov\Desktop\VTU Things\unnamed\TaxiManagerOnline\Web\TaxiManager.Web.ViewModels\bin\Debug\net6.0\TaxiManager.Data.Common.pdb
+C:\Users\SNikolov\Desktop\VTU Things\unnamed\TaxiManagerOnline\Web\TaxiManager.Web.ViewModels\obj\Debug\net6.0\TaxiManager.Web.ViewModels.csproj.AssemblyReference.cache
+C:\Users\SNikolov\Desktop\VTU Things\unnamed\TaxiManagerOnline\Web\TaxiManager.Web.ViewModels\obj\Debug\net6.0\TaxiManager.Web.ViewModels.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SNikolov\Desktop\VTU Things\unnamed\TaxiManagerOnline\Web\TaxiManager.Web.ViewModels\obj\Debug\net6.0\TaxiManager.Web.ViewModels.AssemblyInfoInputs.cache
+C:\Users\SNikolov\Desktop\VTU Things\unnamed\TaxiManagerOnline\Web\TaxiManager.Web.ViewModels\obj\Debug\net6.0\TaxiManager.Web.ViewModels.AssemblyInfo.cs
+C:\Users\SNikolov\Desktop\VTU Things\unnamed\TaxiManagerOnline\Web\TaxiManager.Web.ViewModels\obj\Debug\net6.0\TaxiManager.Web.ViewModels.csproj.CoreCompileInputs.cache
+C:\Users\SNikolov\Desktop\VTU Things\unnamed\TaxiManagerOnline\Web\TaxiManager.Web.ViewModels\obj\Debug\net6.0\TaxiManager.Web.ViewModels.csproj.CopyComplete
+C:\Users\SNikolov\Desktop\VTU Things\unnamed\TaxiManagerOnline\Web\TaxiManager.Web.ViewModels\obj\Debug\net6.0\TaxiManager.Web.ViewModels.dll
+C:\Users\SNikolov\Desktop\VTU Things\unnamed\TaxiManagerOnline\Web\TaxiManager.Web.ViewModels\obj\Debug\net6.0\refint\TaxiManager.Web.ViewModels.dll
+C:\Users\SNikolov\Desktop\VTU Things\unnamed\TaxiManagerOnline\Web\TaxiManager.Web.ViewModels\obj\Debug\net6.0\TaxiManager.Web.ViewModels.pdb
+C:\Users\SNikolov\Desktop\VTU Things\unnamed\TaxiManagerOnline\Web\TaxiManager.Web.ViewModels\obj\Debug\net6.0\ref\TaxiManager.Web.ViewModels.dll

@@ -10,3 +10,15 @@ C:\Users\spart\Desktop\TaxiManager\TaxiManager.Common\obj\Debug\net6.0\TaxiManag
 C:\Users\spart\Desktop\TaxiManager\TaxiManager.Common\obj\Debug\net6.0\refint\TaxiManager.Common.dll
 C:\Users\spart\Desktop\TaxiManager\TaxiManager.Common\obj\Debug\net6.0\TaxiManager.Common.pdb
 C:\Users\spart\Desktop\TaxiManager\TaxiManager.Common\obj\Debug\net6.0\ref\TaxiManager.Common.dll
+C:\Users\SNikolov\Desktop\VTU Things\unnamed\TaxiManagerOnline\TaxiManager.Common\bin\Debug\net6.0\TaxiManager.Common.deps.json
+C:\Users\SNikolov\Desktop\VTU Things\unnamed\TaxiManagerOnline\TaxiManager.Common\bin\Debug\net6.0\TaxiManager.Common.dll
+C:\Users\SNikolov\Desktop\VTU Things\unnamed\TaxiManagerOnline\TaxiManager.Common\bin\Debug\net6.0\TaxiManager.Common.pdb
+C:\Users\SNikolov\Desktop\VTU Things\unnamed\TaxiManagerOnline\TaxiManager.Common\obj\Debug\net6.0\TaxiManager.Common.csproj.AssemblyReference.cache
+C:\Users\SNikolov\Desktop\VTU Things\unnamed\TaxiManagerOnline\TaxiManager.Common\obj\Debug\net6.0\TaxiManager.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SNikolov\Desktop\VTU Things\unnamed\TaxiManagerOnline\TaxiManager.Common\obj\Debug\net6.0\TaxiManager.Common.AssemblyInfoInputs.cache
+C:\Users\SNikolov\Desktop\VTU Things\unnamed\TaxiManagerOnline\TaxiManager.Common\obj\Debug\net6.0\TaxiManager.Common.AssemblyInfo.cs
+C:\Users\SNikolov\Desktop\VTU Things\unnamed\TaxiManagerOnline\TaxiManager.Common\obj\Debug\net6.0\TaxiManager.Common.csproj.CoreCompileInputs.cache
+C:\Users\SNikolov\Desktop\VTU Things\unnamed\TaxiManagerOnline\TaxiManager.Common\obj\Debug\net6.0\TaxiManager.Common.dll
+C:\Users\SNikolov\Desktop\VTU Things\unnamed\TaxiManagerOnline\TaxiManager.Common\obj\Debug\net6.0\refint\TaxiManager.Common.dll
+C:\Users\SNikolov\Desktop\VTU Things\unnamed\TaxiManagerOnline\TaxiManager.Common\obj\Debug\net6.0\TaxiManager.Common.pdb
+C:\Users\SNikolov\Desktop\VTU Things\unnamed\TaxiManagerOnline\TaxiManager.Common\obj\Debug\net6.0\ref\TaxiManager.Common.dll

@@ -29,6 +29,9 @@
                         <li class="nav-item">
                             <a class="nav-link text-dark" asp-area="" asp-controller="Settings" asp-action="Index">Settings</a>
                         </li>
+                        <li class="nav-item">
+                            <a class="nav-link text-dark" asp-area="" asp-controller="Settings" asp-action="Index">Will Smith</a>
+                        </li>
                         @if (this.User.Identity.IsAuthenticated && this.User.IsInRole("Taxi"))
                         {
                             <li class="nav-item">

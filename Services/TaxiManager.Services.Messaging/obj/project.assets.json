@@ -166,19 +166,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\spart\\.nuget\\packages\\": {}
+    "C:\\Users\\SNikolov\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\spart\\Desktop\\TaxiManager\\Services\\TaxiManager.Services.Messaging\\TaxiManager.Services.Messaging.csproj",
+      "projectUniqueName": "C:\\Users\\SNikolov\\Desktop\\VTU Things\\unnamed\\TaxiManagerOnline\\Services\\TaxiManager.Services.Messaging\\TaxiManager.Services.Messaging.csproj",
       "projectName": "TaxiManager.Services.Messaging",
-      "projectPath": "C:\\Users\\spart\\Desktop\\TaxiManager\\Services\\TaxiManager.Services.Messaging\\TaxiManager.Services.Messaging.csproj",
-      "packagesPath": "C:\\Users\\spart\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\spart\\Desktop\\TaxiManager\\Services\\TaxiManager.Services.Messaging\\obj\\",
+      "projectPath": "C:\\Users\\SNikolov\\Desktop\\VTU Things\\unnamed\\TaxiManagerOnline\\Services\\TaxiManager.Services.Messaging\\TaxiManager.Services.Messaging.csproj",
+      "packagesPath": "C:\\Users\\SNikolov\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\SNikolov\\Desktop\\VTU Things\\unnamed\\TaxiManagerOnline\\Services\\TaxiManager.Services.Messaging\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\spart\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\SNikolov\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -231,7 +231,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
       }
     }
   }

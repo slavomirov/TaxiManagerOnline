@@ -10,3 +10,15 @@ C:\Users\spart\Desktop\TaxiManager\Services\TaxiManager.Services.Messaging\obj\D
 C:\Users\spart\Desktop\TaxiManager\Services\TaxiManager.Services.Messaging\obj\Debug\net6.0\refint\TaxiManager.Services.Messaging.dll
 C:\Users\spart\Desktop\TaxiManager\Services\TaxiManager.Services.Messaging\obj\Debug\net6.0\TaxiManager.Services.Messaging.pdb
 C:\Users\spart\Desktop\TaxiManager\Services\TaxiManager.Services.Messaging\obj\Debug\net6.0\ref\TaxiManager.Services.Messaging.dll
+C:\Users\SNikolov\Desktop\VTU Things\unnamed\TaxiManagerOnline\Services\TaxiManager.Services.Messaging\bin\Debug\net6.0\TaxiManager.Services.Messaging.deps.json
+C:\Users\SNikolov\Desktop\VTU Things\unnamed\TaxiManagerOnline\Services\TaxiManager.Services.Messaging\bin\Debug\net6.0\TaxiManager.Services.Messaging.dll
+C:\Users\SNikolov\Desktop\VTU Things\unnamed\TaxiManagerOnline\Services\TaxiManager.Services.Messaging\bin\Debug\net6.0\TaxiManager.Services.Messaging.pdb
+C:\Users\SNikolov\Desktop\VTU Things\unnamed\TaxiManagerOnline\Services\TaxiManager.Services.Messaging\obj\Debug\net6.0\TaxiManager.Services.Messaging.csproj.AssemblyReference.cache
+C:\Users\SNikolov\Desktop\VTU Things\unnamed\TaxiManagerOnline\Services\TaxiManager.Services.Messaging\obj\Debug\net6.0\TaxiManager.Services.Messaging.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SNikolov\Desktop\VTU Things\unnamed\TaxiManagerOnline\Services\TaxiManager.Services.Messaging\obj\Debug\net6.0\TaxiManager.Services.Messaging.AssemblyInfoInputs.cache
+C:\Users\SNikolov\Desktop\VTU Things\unnamed\TaxiManagerOnline\Services\TaxiManager.Services.Messaging\obj\Debug\net6.0\TaxiManager.Services.Messaging.AssemblyInfo.cs
+C:\Users\SNikolov\Desktop\VTU Things\unnamed\TaxiManagerOnline\Services\TaxiManager.Services.Messaging\obj\Debug\net6.0\TaxiManager.Services.Messaging.csproj.CoreCompileInputs.cache
+C:\Users\SNikolov\Desktop\VTU Things\unnamed\TaxiManagerOnline\Services\TaxiManager.Services.Messaging\obj\Debug\net6.0\TaxiManager.Services.Messaging.dll
+C:\Users\SNikolov\Desktop\VTU Things\unnamed\TaxiManagerOnline\Services\TaxiManager.Services.Messaging\obj\Debug\net6.0\refint\TaxiManager.Services.Messaging.dll
+C:\Users\SNikolov\Desktop\VTU Things\unnamed\TaxiManagerOnline\Services\TaxiManager.Services.Messaging\obj\Debug\net6.0\TaxiManager.Services.Messaging.pdb
+C:\Users\SNikolov\Desktop\VTU Things\unnamed\TaxiManagerOnline\Services\TaxiManager.Services.Messaging\obj\Debug\net6.0\ref\TaxiManager.Services.Messaging.dll

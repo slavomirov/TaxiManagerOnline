@@ -4115,19 +4115,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\spart\\.nuget\\packages\\": {}
+    "C:\\Users\\SNikolov\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\spart\\Desktop\\TaxiManager\\Tests\\Sandbox\\Sandbox.csproj",
+      "projectUniqueName": "C:\\Users\\SNikolov\\Desktop\\VTU Things\\unnamed\\TaxiManagerOnline\\Tests\\Sandbox\\Sandbox.csproj",
       "projectName": "Sandbox",
-      "projectPath": "C:\\Users\\spart\\Desktop\\TaxiManager\\Tests\\Sandbox\\Sandbox.csproj",
-      "packagesPath": "C:\\Users\\spart\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\spart\\Desktop\\TaxiManager\\Tests\\Sandbox\\obj\\",
+      "projectPath": "C:\\Users\\SNikolov\\Desktop\\VTU Things\\unnamed\\TaxiManagerOnline\\Tests\\Sandbox\\Sandbox.csproj",
+      "packagesPath": "C:\\Users\\SNikolov\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\SNikolov\\Desktop\\VTU Things\\unnamed\\TaxiManagerOnline\\Tests\\Sandbox\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\spart\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\SNikolov\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -4141,29 +4141,29 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\spart\\Desktop\\TaxiManager\\Data\\TaxiManager.Data.Common\\TaxiManager.Data.Common.csproj": {
-              "projectPath": "C:\\Users\\spart\\Desktop\\TaxiManager\\Data\\TaxiManager.Data.Common\\TaxiManager.Data.Common.csproj"
+            "C:\\Users\\SNikolov\\Desktop\\VTU Things\\unnamed\\TaxiManagerOnline\\Data\\TaxiManager.Data.Common\\TaxiManager.Data.Common.csproj": {
+              "projectPath": "C:\\Users\\SNikolov\\Desktop\\VTU Things\\unnamed\\TaxiManagerOnline\\Data\\TaxiManager.Data.Common\\TaxiManager.Data.Common.csproj"
             },
-            "C:\\Users\\spart\\Desktop\\TaxiManager\\Data\\TaxiManager.Data.Models\\TaxiManager.Data.Models.csproj": {
-              "projectPath": "C:\\Users\\spart\\Desktop\\TaxiManager\\Data\\TaxiManager.Data.Models\\TaxiManager.Data.Models.csproj"
+            "C:\\Users\\SNikolov\\Desktop\\VTU Things\\unnamed\\TaxiManagerOnline\\Data\\TaxiManager.Data.Models\\TaxiManager.Data.Models.csproj": {
+              "projectPath": "C:\\Users\\SNikolov\\Desktop\\VTU Things\\unnamed\\TaxiManagerOnline\\Data\\TaxiManager.Data.Models\\TaxiManager.Data.Models.csproj"
             },
-            "C:\\Users\\spart\\Desktop\\TaxiManager\\Data\\TaxiManager.Data\\TaxiManager.Data.csproj": {
-              "projectPath": "C:\\Users\\spart\\Desktop\\TaxiManager\\Data\\TaxiManager.Data\\TaxiManager.Data.csproj"
+            "C:\\Users\\SNikolov\\Desktop\\VTU Things\\unnamed\\TaxiManagerOnline\\Data\\TaxiManager.Data\\TaxiManager.Data.csproj": {
+              "projectPath": "C:\\Users\\SNikolov\\Desktop\\VTU Things\\unnamed\\TaxiManagerOnline\\Data\\TaxiManager.Data\\TaxiManager.Data.csproj"
             },
-            "C:\\Users\\spart\\Desktop\\TaxiManager\\Services\\TaxiManager.Services.Data\\TaxiManager.Services.Data.csproj": {
-              "projectPath": "C:\\Users\\spart\\Desktop\\TaxiManager\\Services\\TaxiManager.Services.Data\\TaxiManager.Services.Data.csproj"
+            "C:\\Users\\SNikolov\\Desktop\\VTU Things\\unnamed\\TaxiManagerOnline\\Services\\TaxiManager.Services.Data\\TaxiManager.Services.Data.csproj": {
+              "projectPath": "C:\\Users\\SNikolov\\Desktop\\VTU Things\\unnamed\\TaxiManagerOnline\\Services\\TaxiManager.Services.Data\\TaxiManager.Services.Data.csproj"
             },
-            "C:\\Users\\spart\\Desktop\\TaxiManager\\Services\\TaxiManager.Services.Mapping\\TaxiManager.Services.Mapping.csproj": {
-              "projectPath": "C:\\Users\\spart\\Desktop\\TaxiManager\\Services\\TaxiManager.Services.Mapping\\TaxiManager.Services.Mapping.csproj"
+            "C:\\Users\\SNikolov\\Desktop\\VTU Things\\unnamed\\TaxiManagerOnline\\Services\\TaxiManager.Services.Mapping\\TaxiManager.Services.Mapping.csproj": {
+              "projectPath": "C:\\Users\\SNikolov\\Desktop\\VTU Things\\unnamed\\TaxiManagerOnline\\Services\\TaxiManager.Services.Mapping\\TaxiManager.Services.Mapping.csproj"
             },
-            "C:\\Users\\spart\\Desktop\\TaxiManager\\Services\\TaxiManager.Services.Messaging\\TaxiManager.Services.Messaging.csproj": {
-              "projectPath": "C:\\Users\\spart\\Desktop\\TaxiManager\\Services\\TaxiManager.Services.Messaging\\TaxiManager.Services.Messaging.csproj"
+            "C:\\Users\\SNikolov\\Desktop\\VTU Things\\unnamed\\TaxiManagerOnline\\Services\\TaxiManager.Services.Messaging\\TaxiManager.Services.Messaging.csproj": {
+              "projectPath": "C:\\Users\\SNikolov\\Desktop\\VTU Things\\unnamed\\TaxiManagerOnline\\Services\\TaxiManager.Services.Messaging\\TaxiManager.Services.Messaging.csproj"
             },
-            "C:\\Users\\spart\\Desktop\\TaxiManager\\Services\\TaxiManager.Services\\TaxiManager.Services.csproj": {
-              "projectPath": "C:\\Users\\spart\\Desktop\\TaxiManager\\Services\\TaxiManager.Services\\TaxiManager.Services.csproj"
+            "C:\\Users\\SNikolov\\Desktop\\VTU Things\\unnamed\\TaxiManagerOnline\\Services\\TaxiManager.Services\\TaxiManager.Services.csproj": {
+              "projectPath": "C:\\Users\\SNikolov\\Desktop\\VTU Things\\unnamed\\TaxiManagerOnline\\Services\\TaxiManager.Services\\TaxiManager.Services.csproj"
             },
-            "C:\\Users\\spart\\Desktop\\TaxiManager\\TaxiManager.Common\\TaxiManager.Common.csproj": {
-              "projectPath": "C:\\Users\\spart\\Desktop\\TaxiManager\\TaxiManager.Common\\TaxiManager.Common.csproj"
+            "C:\\Users\\SNikolov\\Desktop\\VTU Things\\unnamed\\TaxiManagerOnline\\TaxiManager.Common\\TaxiManager.Common.csproj": {
+              "projectPath": "C:\\Users\\SNikolov\\Desktop\\VTU Things\\unnamed\\TaxiManagerOnline\\TaxiManager.Common\\TaxiManager.Common.csproj"
             }
           }
         }
@@ -4225,7 +4225,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
       }
     }
   }
