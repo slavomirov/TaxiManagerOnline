@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\TaxiManagerOnline\\Services\\TaxiManager.Services.Messaging\\TaxiManager.Services.Messaging.csproj": {}
+    "C:\\Users\\SNikolov\\Desktop\\VTU Things\\unnamed\\TaxiManagerOnline\\Services\\TaxiManager.Services.Messaging\\TaxiManager.Services.Messaging.csproj": {}
   },
   "projects": {
-    "D:\\TaxiManagerOnline\\Services\\TaxiManager.Services.Messaging\\TaxiManager.Services.Messaging.csproj": {
+    "C:\\Users\\SNikolov\\Desktop\\VTU Things\\unnamed\\TaxiManagerOnline\\Services\\TaxiManager.Services.Messaging\\TaxiManager.Services.Messaging.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\TaxiManagerOnline\\Services\\TaxiManager.Services.Messaging\\TaxiManager.Services.Messaging.csproj",
+        "projectUniqueName": "C:\\Users\\SNikolov\\Desktop\\VTU Things\\unnamed\\TaxiManagerOnline\\Services\\TaxiManager.Services.Messaging\\TaxiManager.Services.Messaging.csproj",
         "projectName": "TaxiManager.Services.Messaging",
-        "projectPath": "D:\\TaxiManagerOnline\\Services\\TaxiManager.Services.Messaging\\TaxiManager.Services.Messaging.csproj",
-        "packagesPath": "C:\\Users\\VDenchev\\.nuget\\packages\\",
-        "outputPath": "D:\\TaxiManagerOnline\\Services\\TaxiManager.Services.Messaging\\obj\\",
+        "projectPath": "C:\\Users\\SNikolov\\Desktop\\VTU Things\\unnamed\\TaxiManagerOnline\\Services\\TaxiManager.Services.Messaging\\TaxiManager.Services.Messaging.csproj",
+        "packagesPath": "C:\\Users\\SNikolov\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\SNikolov\\Desktop\\VTU Things\\unnamed\\TaxiManagerOnline\\Services\\TaxiManager.Services.Messaging\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\VDenchev\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\SNikolov\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

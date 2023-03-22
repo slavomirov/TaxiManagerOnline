@@ -1,13 +1,13 @@
 {
   "Version": 1,
-  "Hash": "znnM7MApr/ZMxG1nbJYGXxP9aueWGIHnAHPpQR2rc6s=",
+  "Hash": "9ZE5SwML/XLrbhOF49UHlsEwUOJkomIz0OCULhAmpqU=",
   "Source": "TaxiManager.Web.Tests",
   "BasePath": "_content/TaxiManager.Web.Tests",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [
     {
-      "Identity": "C:\\Users\\spart\\Desktop\\TaxiManager\\Web\\TaxiManager.Web\\TaxiManager.Web.csproj",
+      "Identity": "C:\\Users\\SNikolov\\Desktop\\VTU Things\\unnamed\\TaxiManagerOnline\\Web\\TaxiManager.Web\\TaxiManager.Web.csproj",
       "Version": 2,
       "Source": "TaxiManager.Web",
       "GetPublishAssetsTargets": "ComputeReferencedStaticWebAssetsPublishManifest;GetCurrentProjectPublishStaticWebAssetItems",
@@ -22,17 +22,17 @@
     {
       "Name": "TaxiManager.Web\\wwwroot",
       "Source": "TaxiManager.Web",
-      "ContentRoot": "C:\\Users\\spart\\Desktop\\TaxiManager\\Web\\TaxiManager.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\SNikolov\\Desktop\\VTU Things\\unnamed\\TaxiManagerOnline\\Web\\TaxiManager.Web\\wwwroot\\",
       "BasePath": "_content/TaxiManager.Web",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\spart\\Desktop\\TaxiManager\\Web\\TaxiManager.Web\\wwwroot\\css\\site.css",
+      "Identity": "C:\\Users\\SNikolov\\Desktop\\VTU Things\\unnamed\\TaxiManagerOnline\\Web\\TaxiManager.Web\\wwwroot\\css\\site.css",
       "SourceId": "TaxiManager.Web",
       "SourceType": "Project",
-      "ContentRoot": "C:\\Users\\spart\\Desktop\\TaxiManager\\Web\\TaxiManager.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\SNikolov\\Desktop\\VTU Things\\unnamed\\TaxiManagerOnline\\Web\\TaxiManager.Web\\wwwroot\\",
       "BasePath": "_content/TaxiManager.Web",
       "RelativePath": "css/site.css",
       "AssetKind": "All",
@@ -46,10 +46,10 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
-      "Identity": "C:\\Users\\spart\\Desktop\\TaxiManager\\Web\\TaxiManager.Web\\wwwroot\\css\\site.min.css",
+      "Identity": "C:\\Users\\SNikolov\\Desktop\\VTU Things\\unnamed\\TaxiManagerOnline\\Web\\TaxiManager.Web\\wwwroot\\css\\site.min.css",
       "SourceId": "TaxiManager.Web",
       "SourceType": "Project",
-      "ContentRoot": "C:\\Users\\spart\\Desktop\\TaxiManager\\Web\\TaxiManager.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\SNikolov\\Desktop\\VTU Things\\unnamed\\TaxiManagerOnline\\Web\\TaxiManager.Web\\wwwroot\\",
       "BasePath": "_content/TaxiManager.Web",
       "RelativePath": "css/site.min.css",
       "AssetKind": "All",
@@ -63,10 +63,10 @@
       "OriginalItemSpec": "wwwroot\\css\\site.min.css"
     },
     {
-      "Identity": "C:\\Users\\spart\\Desktop\\TaxiManager\\Web\\TaxiManager.Web\\wwwroot\\favicon.ico",
+      "Identity": "C:\\Users\\SNikolov\\Desktop\\VTU Things\\unnamed\\TaxiManagerOnline\\Web\\TaxiManager.Web\\wwwroot\\favicon.ico",
       "SourceId": "TaxiManager.Web",
       "SourceType": "Project",
-      "ContentRoot": "C:\\Users\\spart\\Desktop\\TaxiManager\\Web\\TaxiManager.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\SNikolov\\Desktop\\VTU Things\\unnamed\\TaxiManagerOnline\\Web\\TaxiManager.Web\\wwwroot\\",
       "BasePath": "_content/TaxiManager.Web",
       "RelativePath": "favicon.ico",
       "AssetKind": "All",
@@ -80,10 +80,10 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-      "Identity": "C:\\Users\\spart\\Desktop\\TaxiManager\\Web\\TaxiManager.Web\\wwwroot\\images\\cars\\10104fd4-63a0-4cf2-a308-9f617209a0fd.jpg",
+      "Identity": "C:\\Users\\SNikolov\\Desktop\\VTU Things\\unnamed\\TaxiManagerOnline\\Web\\TaxiManager.Web\\wwwroot\\images\\cars\\10104fd4-63a0-4cf2-a308-9f617209a0fd.jpg",
       "SourceId": "TaxiManager.Web",
       "SourceType": "Project",
-      "ContentRoot": "C:\\Users\\spart\\Desktop\\TaxiManager\\Web\\TaxiManager.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\SNikolov\\Desktop\\VTU Things\\unnamed\\TaxiManagerOnline\\Web\\TaxiManager.Web\\wwwroot\\",
       "BasePath": "_content/TaxiManager.Web",
       "RelativePath": "images/cars/10104fd4-63a0-4cf2-a308-9f617209a0fd.jpg",
       "AssetKind": "All",
@@ -97,10 +97,10 @@
       "OriginalItemSpec": "wwwroot\\images\\cars\\10104fd4-63a0-4cf2-a308-9f617209a0fd.jpg"
     },
     {
-      "Identity": "C:\\Users\\spart\\Desktop\\TaxiManager\\Web\\TaxiManager.Web\\wwwroot\\images\\cars\\29f9f667-4236-4c34-9707-64ae730cae75.jpg",
+      "Identity": "C:\\Users\\SNikolov\\Desktop\\VTU Things\\unnamed\\TaxiManagerOnline\\Web\\TaxiManager.Web\\wwwroot\\images\\cars\\29f9f667-4236-4c34-9707-64ae730cae75.jpg",
       "SourceId": "TaxiManager.Web",
       "SourceType": "Project",
-      "ContentRoot": "C:\\Users\\spart\\Desktop\\TaxiManager\\Web\\TaxiManager.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\SNikolov\\Desktop\\VTU Things\\unnamed\\TaxiManagerOnline\\Web\\TaxiManager.Web\\wwwroot\\",
       "BasePath": "_content/TaxiManager.Web",
       "RelativePath": "images/cars/29f9f667-4236-4c34-9707-64ae730cae75.jpg",
       "AssetKind": "All",
@@ -114,10 +114,10 @@
       "OriginalItemSpec": "wwwroot\\images\\cars\\29f9f667-4236-4c34-9707-64ae730cae75.jpg"
     },
     {
-      "Identity": "C:\\Users\\spart\\Desktop\\TaxiManager\\Web\\TaxiManager.Web\\wwwroot\\images\\cars\\2c46088e-4530-4d16-a8db-0c0a50d054c6.jpg",
+      "Identity": "C:\\Users\\SNikolov\\Desktop\\VTU Things\\unnamed\\TaxiManagerOnline\\Web\\TaxiManager.Web\\wwwroot\\images\\cars\\2c46088e-4530-4d16-a8db-0c0a50d054c6.jpg",
       "SourceId": "TaxiManager.Web",
       "SourceType": "Project",
-      "ContentRoot": "C:\\Users\\spart\\Desktop\\TaxiManager\\Web\\TaxiManager.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\SNikolov\\Desktop\\VTU Things\\unnamed\\TaxiManagerOnline\\Web\\TaxiManager.Web\\wwwroot\\",
       "BasePath": "_content/TaxiManager.Web",
       "RelativePath": "images/cars/2c46088e-4530-4d16-a8db-0c0a50d054c6.jpg",
       "AssetKind": "All",
@@ -131,10 +131,10 @@
       "OriginalItemSpec": "wwwroot\\images\\cars\\2c46088e-4530-4d16-a8db-0c0a50d054c6.jpg"
     },
     {
-      "Identity": "C:\\Users\\spart\\Desktop\\TaxiManager\\Web\\TaxiManager.Web\\wwwroot\\images\\cars\\2d1ce0ee-a6a8-4db2-bca7-482af015bc28.jpg",
+      "Identity": "C:\\Users\\SNikolov\\Desktop\\VTU Things\\unnamed\\TaxiManagerOnline\\Web\\TaxiManager.Web\\wwwroot\\images\\cars\\2d1ce0ee-a6a8-4db2-bca7-482af015bc28.jpg",
       "SourceId": "TaxiManager.Web",
       "SourceType": "Project",
-      "ContentRoot": "C:\\Users\\spart\\Desktop\\TaxiManager\\Web\\TaxiManager.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\SNikolov\\Desktop\\VTU Things\\unnamed\\TaxiManagerOnline\\Web\\TaxiManager.Web\\wwwroot\\",
       "BasePath": "_content/TaxiManager.Web",
       "RelativePath": "images/cars/2d1ce0ee-a6a8-4db2-bca7-482af015bc28.jpg",
       "AssetKind": "All",
@@ -148,10 +148,10 @@
       "OriginalItemSpec": "wwwroot\\images\\cars\\2d1ce0ee-a6a8-4db2-bca7-482af015bc28.jpg"
     },
     {
-      "Identity": "C:\\Users\\spart\\Desktop\\TaxiManager\\Web\\TaxiManager.Web\\wwwroot\\images\\cars\\33150c48-77a2-4d59-b57e-1193dd0fdb4e.jpg",
+      "Identity": "C:\\Users\\SNikolov\\Desktop\\VTU Things\\unnamed\\TaxiManagerOnline\\Web\\TaxiManager.Web\\wwwroot\\images\\cars\\33150c48-77a2-4d59-b57e-1193dd0fdb4e.jpg",
       "SourceId": "TaxiManager.Web",
       "SourceType": "Project",
-      "ContentRoot": "C:\\Users\\spart\\Desktop\\TaxiManager\\Web\\TaxiManager.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\SNikolov\\Desktop\\VTU Things\\unnamed\\TaxiManagerOnline\\Web\\TaxiManager.Web\\wwwroot\\",
       "BasePath": "_content/TaxiManager.Web",
       "RelativePath": "images/cars/33150c48-77a2-4d59-b57e-1193dd0fdb4e.jpg",
       "AssetKind": "All",
@@ -165,10 +165,10 @@
       "OriginalItemSpec": "wwwroot\\images\\cars\\33150c48-77a2-4d59-b57e-1193dd0fdb4e.jpg"
     },
     {
-      "Identity": "C:\\Users\\spart\\Desktop\\TaxiManager\\Web\\TaxiManager.Web\\wwwroot\\images\\cars\\3b533896-00c9-4ea9-ba1b-2f3be93171d7.jpg",
+      "Identity": "C:\\Users\\SNikolov\\Desktop\\VTU Things\\unnamed\\TaxiManagerOnline\\Web\\TaxiManager.Web\\wwwroot\\images\\cars\\3b533896-00c9-4ea9-ba1b-2f3be93171d7.jpg",
       "SourceId": "TaxiManager.Web",
       "SourceType": "Project",
-      "ContentRoot": "C:\\Users\\spart\\Desktop\\TaxiManager\\Web\\TaxiManager.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\SNikolov\\Desktop\\VTU Things\\unnamed\\TaxiManagerOnline\\Web\\TaxiManager.Web\\wwwroot\\",
       "BasePath": "_content/TaxiManager.Web",
       "RelativePath": "images/cars/3b533896-00c9-4ea9-ba1b-2f3be93171d7.jpg",
       "AssetKind": "All",
@@ -182,10 +182,10 @@
       "OriginalItemSpec": "wwwroot\\images\\cars\\3b533896-00c9-4ea9-ba1b-2f3be93171d7.jpg"
     },
     {
-      "Identity": "C:\\Users\\spart\\Desktop\\TaxiManager\\Web\\TaxiManager.Web\\wwwroot\\images\\cars\\47d032e2-cf95-4465-a036-186c60e93620.jpg",
+      "Identity": "C:\\Users\\SNikolov\\Desktop\\VTU Things\\unnamed\\TaxiManagerOnline\\Web\\TaxiManager.Web\\wwwroot\\images\\cars\\47d032e2-cf95-4465-a036-186c60e93620.jpg",
       "SourceId": "TaxiManager.Web",
       "SourceType": "Project",
-      "ContentRoot": "C:\\Users\\spart\\Desktop\\TaxiManager\\Web\\TaxiManager.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\SNikolov\\Desktop\\VTU Things\\unnamed\\TaxiManagerOnline\\Web\\TaxiManager.Web\\wwwroot\\",
       "BasePath": "_content/TaxiManager.Web",
       "RelativePath": "images/cars/47d032e2-cf95-4465-a036-186c60e93620.jpg",
       "AssetKind": "All",
@@ -199,10 +199,10 @@
       "OriginalItemSpec": "wwwroot\\images\\cars\\47d032e2-cf95-4465-a036-186c60e93620.jpg"
     },
     {
-      "Identity": "C:\\Users\\spart\\Desktop\\TaxiManager\\Web\\TaxiManager.Web\\wwwroot\\images\\cars\\4bbd1651-cb8c-4964-ae78-3cd9c55b150f.jpg",
+      "Identity": "C:\\Users\\SNikolov\\Desktop\\VTU Things\\unnamed\\TaxiManagerOnline\\Web\\TaxiManager.Web\\wwwroot\\images\\cars\\4bbd1651-cb8c-4964-ae78-3cd9c55b150f.jpg",
       "SourceId": "TaxiManager.Web",
       "SourceType": "Project",
-      "ContentRoot": "C:\\Users\\spart\\Desktop\\TaxiManager\\Web\\TaxiManager.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\SNikolov\\Desktop\\VTU Things\\unnamed\\TaxiManagerOnline\\Web\\TaxiManager.Web\\wwwroot\\",
       "BasePath": "_content/TaxiManager.Web",
       "RelativePath": "images/cars/4bbd1651-cb8c-4964-ae78-3cd9c55b150f.jpg",
       "AssetKind": "All",
@@ -216,10 +216,10 @@
       "OriginalItemSpec": "wwwroot\\images\\cars\\4bbd1651-cb8c-4964-ae78-3cd9c55b150f.jpg"
     },
     {
-      "Identity": "C:\\Users\\spart\\Desktop\\TaxiManager\\Web\\TaxiManager.Web\\wwwroot\\images\\cars\\4cd86fee-8c74-4552-a61e-248ef27977e1.jpg",
+      "Identity": "C:\\Users\\SNikolov\\Desktop\\VTU Things\\unnamed\\TaxiManagerOnline\\Web\\TaxiManager.Web\\wwwroot\\images\\cars\\4cd86fee-8c74-4552-a61e-248ef27977e1.jpg",
       "SourceId": "TaxiManager.Web",
       "SourceType": "Project",
-      "ContentRoot": "C:\\Users\\spart\\Desktop\\TaxiManager\\Web\\TaxiManager.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\SNikolov\\Desktop\\VTU Things\\unnamed\\TaxiManagerOnline\\Web\\TaxiManager.Web\\wwwroot\\",
       "BasePath": "_content/TaxiManager.Web",
       "RelativePath": "images/cars/4cd86fee-8c74-4552-a61e-248ef27977e1.jpg",
       "AssetKind": "All",
@@ -233,10 +233,10 @@
       "OriginalItemSpec": "wwwroot\\images\\cars\\4cd86fee-8c74-4552-a61e-248ef27977e1.jpg"
     },
     {
-      "Identity": "C:\\Users\\spart\\Desktop\\TaxiManager\\Web\\TaxiManager.Web\\wwwroot\\images\\cars\\4f5f152a-f79c-4929-80ca-8c76b9177fdf.jpg",
+      "Identity": "C:\\Users\\SNikolov\\Desktop\\VTU Things\\unnamed\\TaxiManagerOnline\\Web\\TaxiManager.Web\\wwwroot\\images\\cars\\4f5f152a-f79c-4929-80ca-8c76b9177fdf.jpg",
       "SourceId": "TaxiManager.Web",
       "SourceType": "Project",
-      "ContentRoot": "C:\\Users\\spart\\Desktop\\TaxiManager\\Web\\TaxiManager.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\SNikolov\\Desktop\\VTU Things\\unnamed\\TaxiManagerOnline\\Web\\TaxiManager.Web\\wwwroot\\",
       "BasePath": "_content/TaxiManager.Web",
       "RelativePath": "images/cars/4f5f152a-f79c-4929-80ca-8c76b9177fdf.jpg",
       "AssetKind": "All",
@@ -250,10 +250,10 @@
       "OriginalItemSpec": "wwwroot\\images\\cars\\4f5f152a-f79c-4929-80ca-8c76b9177fdf.jpg"
     },
     {
-      "Identity": "C:\\Users\\spart\\Desktop\\TaxiManager\\Web\\TaxiManager.Web\\wwwroot\\images\\cars\\64bee037-2454-4dfa-b1e2-0114d7bda9ee.jpg",
+      "Identity": "C:\\Users\\SNikolov\\Desktop\\VTU Things\\unnamed\\TaxiManagerOnline\\Web\\TaxiManager.Web\\wwwroot\\images\\cars\\64bee037-2454-4dfa-b1e2-0114d7bda9ee.jpg",
       "SourceId": "TaxiManager.Web",
       "SourceType": "Project",
-      "ContentRoot": "C:\\Users\\spart\\Desktop\\TaxiManager\\Web\\TaxiManager.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\SNikolov\\Desktop\\VTU Things\\unnamed\\TaxiManagerOnline\\Web\\TaxiManager.Web\\wwwroot\\",
       "BasePath": "_content/TaxiManager.Web",
       "RelativePath": "images/cars/64bee037-2454-4dfa-b1e2-0114d7bda9ee.jpg",
       "AssetKind": "All",
@@ -267,10 +267,10 @@
       "OriginalItemSpec": "wwwroot\\images\\cars\\64bee037-2454-4dfa-b1e2-0114d7bda9ee.jpg"
     },
     {
-      "Identity": "C:\\Users\\spart\\Desktop\\TaxiManager\\Web\\TaxiManager.Web\\wwwroot\\images\\cars\\73931399-8287-4c84-97ef-b768869e53bd.jpg",
+      "Identity": "C:\\Users\\SNikolov\\Desktop\\VTU Things\\unnamed\\TaxiManagerOnline\\Web\\TaxiManager.Web\\wwwroot\\images\\cars\\73931399-8287-4c84-97ef-b768869e53bd.jpg",
       "SourceId": "TaxiManager.Web",
       "SourceType": "Project",
-      "ContentRoot": "C:\\Users\\spart\\Desktop\\TaxiManager\\Web\\TaxiManager.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\SNikolov\\Desktop\\VTU Things\\unnamed\\TaxiManagerOnline\\Web\\TaxiManager.Web\\wwwroot\\",
       "BasePath": "_content/TaxiManager.Web",
       "RelativePath": "images/cars/73931399-8287-4c84-97ef-b768869e53bd.jpg",
       "AssetKind": "All",
@@ -284,10 +284,10 @@
       "OriginalItemSpec": "wwwroot\\images\\cars\\73931399-8287-4c84-97ef-b768869e53bd.jpg"
     },
     {
-      "Identity": "C:\\Users\\spart\\Desktop\\TaxiManager\\Web\\TaxiManager.Web\\wwwroot\\images\\cars\\7cb027bc-f786-4a33-b10e-15d2b9758382.jpg",
+      "Identity": "C:\\Users\\SNikolov\\Desktop\\VTU Things\\unnamed\\TaxiManagerOnline\\Web\\TaxiManager.Web\\wwwroot\\images\\cars\\7cb027bc-f786-4a33-b10e-15d2b9758382.jpg",
       "SourceId": "TaxiManager.Web",
       "SourceType": "Project",
-      "ContentRoot": "C:\\Users\\spart\\Desktop\\TaxiManager\\Web\\TaxiManager.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\SNikolov\\Desktop\\VTU Things\\unnamed\\TaxiManagerOnline\\Web\\TaxiManager.Web\\wwwroot\\",
       "BasePath": "_content/TaxiManager.Web",
       "RelativePath": "images/cars/7cb027bc-f786-4a33-b10e-15d2b9758382.jpg",
       "AssetKind": "All",
@@ -301,10 +301,10 @@
       "OriginalItemSpec": "wwwroot\\images\\cars\\7cb027bc-f786-4a33-b10e-15d2b9758382.jpg"
     },
     {
-      "Identity": "C:\\Users\\spart\\Desktop\\TaxiManager\\Web\\TaxiManager.Web\\wwwroot\\images\\cars\\95d476c9-98db-4447-8c2b-191ae711c784.png",
+      "Identity": "C:\\Users\\SNikolov\\Desktop\\VTU Things\\unnamed\\TaxiManagerOnline\\Web\\TaxiManager.Web\\wwwroot\\images\\cars\\95d476c9-98db-4447-8c2b-191ae711c784.png",
       "SourceId": "TaxiManager.Web",
       "SourceType": "Project",
-      "ContentRoot": "C:\\Users\\spart\\Desktop\\TaxiManager\\Web\\TaxiManager.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\SNikolov\\Desktop\\VTU Things\\unnamed\\TaxiManagerOnline\\Web\\TaxiManager.Web\\wwwroot\\",
       "BasePath": "_content/TaxiManager.Web",
       "RelativePath": "images/cars/95d476c9-98db-4447-8c2b-191ae711c784.png",
       "AssetKind": "All",
@@ -318,10 +318,10 @@
       "OriginalItemSpec": "wwwroot\\images\\cars\\95d476c9-98db-4447-8c2b-191ae711c784.png"
     },
     {
-      "Identity": "C:\\Users\\spart\\Desktop\\TaxiManager\\Web\\TaxiManager.Web\\wwwroot\\images\\cars\\9adce3c9-23ea-4ea2-8c16-275eabfa0ceb.jpg",
+      "Identity": "C:\\Users\\SNikolov\\Desktop\\VTU Things\\unnamed\\TaxiManagerOnline\\Web\\TaxiManager.Web\\wwwroot\\images\\cars\\9adce3c9-23ea-4ea2-8c16-275eabfa0ceb.jpg",
       "SourceId": "TaxiManager.Web",
       "SourceType": "Project",
-      "ContentRoot": "C:\\Users\\spart\\Desktop\\TaxiManager\\Web\\TaxiManager.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\SNikolov\\Desktop\\VTU Things\\unnamed\\TaxiManagerOnline\\Web\\TaxiManager.Web\\wwwroot\\",
       "BasePath": "_content/TaxiManager.Web",
       "RelativePath": "images/cars/9adce3c9-23ea-4ea2-8c16-275eabfa0ceb.jpg",
       "AssetKind": "All",
@@ -335,10 +335,10 @@
       "OriginalItemSpec": "wwwroot\\images\\cars\\9adce3c9-23ea-4ea2-8c16-275eabfa0ceb.jpg"
     },
     {
-      "Identity": "C:\\Users\\spart\\Desktop\\TaxiManager\\Web\\TaxiManager.Web\\wwwroot\\images\\cars\\a9b8becd-557c-49b2-bdb4-d064a4ef1793.jpg",
+      "Identity": "C:\\Users\\SNikolov\\Desktop\\VTU Things\\unnamed\\TaxiManagerOnline\\Web\\TaxiManager.Web\\wwwroot\\images\\cars\\a9b8becd-557c-49b2-bdb4-d064a4ef1793.jpg",
       "SourceId": "TaxiManager.Web",
       "SourceType": "Project",
-      "ContentRoot": "C:\\Users\\spart\\Desktop\\TaxiManager\\Web\\TaxiManager.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\SNikolov\\Desktop\\VTU Things\\unnamed\\TaxiManagerOnline\\Web\\TaxiManager.Web\\wwwroot\\",
       "BasePath": "_content/TaxiManager.Web",
       "RelativePath": "images/cars/a9b8becd-557c-49b2-bdb4-d064a4ef1793.jpg",
       "AssetKind": "All",
@@ -352,10 +352,10 @@
       "OriginalItemSpec": "wwwroot\\images\\cars\\a9b8becd-557c-49b2-bdb4-d064a4ef1793.jpg"
     },
     {
-      "Identity": "C:\\Users\\spart\\Desktop\\TaxiManager\\Web\\TaxiManager.Web\\wwwroot\\images\\cars\\b4691cba-4dfe-4916-8e19-9e81607e47fd.jpg",
+      "Identity": "C:\\Users\\SNikolov\\Desktop\\VTU Things\\unnamed\\TaxiManagerOnline\\Web\\TaxiManager.Web\\wwwroot\\images\\cars\\b4691cba-4dfe-4916-8e19-9e81607e47fd.jpg",
       "SourceId": "TaxiManager.Web",
       "SourceType": "Project",
-      "ContentRoot": "C:\\Users\\spart\\Desktop\\TaxiManager\\Web\\TaxiManager.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\SNikolov\\Desktop\\VTU Things\\unnamed\\TaxiManagerOnline\\Web\\TaxiManager.Web\\wwwroot\\",
       "BasePath": "_content/TaxiManager.Web",
       "RelativePath": "images/cars/b4691cba-4dfe-4916-8e19-9e81607e47fd.jpg",
       "AssetKind": "All",
@@ -369,10 +369,27 @@
       "OriginalItemSpec": "wwwroot\\images\\cars\\b4691cba-4dfe-4916-8e19-9e81607e47fd.jpg"
     },
     {
-      "Identity": "C:\\Users\\spart\\Desktop\\TaxiManager\\Web\\TaxiManager.Web\\wwwroot\\images\\cars\\d459c2c2-0d19-478b-8448-162b59c5ed78.jpg",
+      "Identity": "C:\\Users\\SNikolov\\Desktop\\VTU Things\\unnamed\\TaxiManagerOnline\\Web\\TaxiManager.Web\\wwwroot\\images\\cars\\b6fa9b86-3236-4671-9e18-da27bb81bc8c.jpg",
       "SourceId": "TaxiManager.Web",
       "SourceType": "Project",
-      "ContentRoot": "C:\\Users\\spart\\Desktop\\TaxiManager\\Web\\TaxiManager.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\SNikolov\\Desktop\\VTU Things\\unnamed\\TaxiManagerOnline\\Web\\TaxiManager.Web\\wwwroot\\",
+      "BasePath": "_content/TaxiManager.Web",
+      "RelativePath": "images/cars/b6fa9b86-3236-4671-9e18-da27bb81bc8c.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\cars\\b6fa9b86-3236-4671-9e18-da27bb81bc8c.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\SNikolov\\Desktop\\VTU Things\\unnamed\\TaxiManagerOnline\\Web\\TaxiManager.Web\\wwwroot\\images\\cars\\d459c2c2-0d19-478b-8448-162b59c5ed78.jpg",
+      "SourceId": "TaxiManager.Web",
+      "SourceType": "Project",
+      "ContentRoot": "C:\\Users\\SNikolov\\Desktop\\VTU Things\\unnamed\\TaxiManagerOnline\\Web\\TaxiManager.Web\\wwwroot\\",
       "BasePath": "_content/TaxiManager.Web",
       "RelativePath": "images/cars/d459c2c2-0d19-478b-8448-162b59c5ed78.jpg",
       "AssetKind": "All",
@@ -386,10 +403,10 @@
       "OriginalItemSpec": "wwwroot\\images\\cars\\d459c2c2-0d19-478b-8448-162b59c5ed78.jpg"
     },
     {
-      "Identity": "C:\\Users\\spart\\Desktop\\TaxiManager\\Web\\TaxiManager.Web\\wwwroot\\images\\cars\\d4b91ee9-4459-4d07-8847-9b101ff8533e.jpg",
+      "Identity": "C:\\Users\\SNikolov\\Desktop\\VTU Things\\unnamed\\TaxiManagerOnline\\Web\\TaxiManager.Web\\wwwroot\\images\\cars\\d4b91ee9-4459-4d07-8847-9b101ff8533e.jpg",
       "SourceId": "TaxiManager.Web",
       "SourceType": "Project",
-      "ContentRoot": "C:\\Users\\spart\\Desktop\\TaxiManager\\Web\\TaxiManager.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\SNikolov\\Desktop\\VTU Things\\unnamed\\TaxiManagerOnline\\Web\\TaxiManager.Web\\wwwroot\\",
       "BasePath": "_content/TaxiManager.Web",
       "RelativePath": "images/cars/d4b91ee9-4459-4d07-8847-9b101ff8533e.jpg",
       "AssetKind": "All",
@@ -403,10 +420,10 @@
       "OriginalItemSpec": "wwwroot\\images\\cars\\d4b91ee9-4459-4d07-8847-9b101ff8533e.jpg"
     },
     {
-      "Identity": "C:\\Users\\spart\\Desktop\\TaxiManager\\Web\\TaxiManager.Web\\wwwroot\\images\\cars\\fd225635-d500-4fc7-898f-85d27abb5b2b.jpg",
+      "Identity": "C:\\Users\\SNikolov\\Desktop\\VTU Things\\unnamed\\TaxiManagerOnline\\Web\\TaxiManager.Web\\wwwroot\\images\\cars\\fd225635-d500-4fc7-898f-85d27abb5b2b.jpg",
       "SourceId": "TaxiManager.Web",
       "SourceType": "Project",
-      "ContentRoot": "C:\\Users\\spart\\Desktop\\TaxiManager\\Web\\TaxiManager.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\SNikolov\\Desktop\\VTU Things\\unnamed\\TaxiManagerOnline\\Web\\TaxiManager.Web\\wwwroot\\",
       "BasePath": "_content/TaxiManager.Web",
       "RelativePath": "images/cars/fd225635-d500-4fc7-898f-85d27abb5b2b.jpg",
       "AssetKind": "All",
@@ -420,10 +437,10 @@
       "OriginalItemSpec": "wwwroot\\images\\cars\\fd225635-d500-4fc7-898f-85d27abb5b2b.jpg"
     },
     {
-      "Identity": "C:\\Users\\spart\\Desktop\\TaxiManager\\Web\\TaxiManager.Web\\wwwroot\\js\\site.js",
+      "Identity": "C:\\Users\\SNikolov\\Desktop\\VTU Things\\unnamed\\TaxiManagerOnline\\Web\\TaxiManager.Web\\wwwroot\\js\\site.js",
       "SourceId": "TaxiManager.Web",
       "SourceType": "Project",
-      "ContentRoot": "C:\\Users\\spart\\Desktop\\TaxiManager\\Web\\TaxiManager.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\SNikolov\\Desktop\\VTU Things\\unnamed\\TaxiManagerOnline\\Web\\TaxiManager.Web\\wwwroot\\",
       "BasePath": "_content/TaxiManager.Web",
       "RelativePath": "js/site.js",
       "AssetKind": "All",
@@ -437,10 +454,10 @@
       "OriginalItemSpec": "wwwroot\\js\\site.js"
     },
     {
-      "Identity": "C:\\Users\\spart\\Desktop\\TaxiManager\\Web\\TaxiManager.Web\\wwwroot\\js\\site.min.js",
+      "Identity": "C:\\Users\\SNikolov\\Desktop\\VTU Things\\unnamed\\TaxiManagerOnline\\Web\\TaxiManager.Web\\wwwroot\\js\\site.min.js",
       "SourceId": "TaxiManager.Web",
       "SourceType": "Project",
-      "ContentRoot": "C:\\Users\\spart\\Desktop\\TaxiManager\\Web\\TaxiManager.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\SNikolov\\Desktop\\VTU Things\\unnamed\\TaxiManagerOnline\\Web\\TaxiManager.Web\\wwwroot\\",
       "BasePath": "_content/TaxiManager.Web",
       "RelativePath": "js/site.min.js",
       "AssetKind": "All",
@@ -454,10 +471,10 @@
       "OriginalItemSpec": "wwwroot\\js\\site.min.js"
     },
     {
-      "Identity": "C:\\Users\\spart\\Desktop\\TaxiManager\\Web\\TaxiManager.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Identity": "C:\\Users\\SNikolov\\Desktop\\VTU Things\\unnamed\\TaxiManagerOnline\\Web\\TaxiManager.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "SourceId": "TaxiManager.Web",
       "SourceType": "Project",
-      "ContentRoot": "C:\\Users\\spart\\Desktop\\TaxiManager\\Web\\TaxiManager.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\SNikolov\\Desktop\\VTU Things\\unnamed\\TaxiManagerOnline\\Web\\TaxiManager.Web\\wwwroot\\",
       "BasePath": "_content/TaxiManager.Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css",
       "AssetKind": "All",
@@ -471,10 +488,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Identity": "C:\\Users\\spart\\Desktop\\TaxiManager\\Web\\TaxiManager.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Identity": "C:\\Users\\SNikolov\\Desktop\\VTU Things\\unnamed\\TaxiManagerOnline\\Web\\TaxiManager.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "SourceId": "TaxiManager.Web",
       "SourceType": "Project",
-      "ContentRoot": "C:\\Users\\spart\\Desktop\\TaxiManager\\Web\\TaxiManager.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\SNikolov\\Desktop\\VTU Things\\unnamed\\TaxiManagerOnline\\Web\\TaxiManager.Web\\wwwroot\\",
       "BasePath": "_content/TaxiManager.Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css",
       "AssetKind": "All",
@@ -488,10 +505,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Identity": "C:\\Users\\spart\\Desktop\\TaxiManager\\Web\\TaxiManager.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Identity": "C:\\Users\\SNikolov\\Desktop\\VTU Things\\unnamed\\TaxiManagerOnline\\Web\\TaxiManager.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "SourceId": "TaxiManager.Web",
       "SourceType": "Project",
-      "ContentRoot": "C:\\Users\\spart\\Desktop\\TaxiManager\\Web\\TaxiManager.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\SNikolov\\Desktop\\VTU Things\\unnamed\\TaxiManagerOnline\\Web\\TaxiManager.Web\\wwwroot\\",
       "BasePath": "_content/TaxiManager.Web",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js",
       "AssetKind": "All",
@@ -505,10 +522,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Identity": "C:\\Users\\spart\\Desktop\\TaxiManager\\Web\\TaxiManager.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Identity": "C:\\Users\\SNikolov\\Desktop\\VTU Things\\unnamed\\TaxiManagerOnline\\Web\\TaxiManager.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "SourceId": "TaxiManager.Web",
       "SourceType": "Project",
-      "ContentRoot": "C:\\Users\\spart\\Desktop\\TaxiManager\\Web\\TaxiManager.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\SNikolov\\Desktop\\VTU Things\\unnamed\\TaxiManagerOnline\\Web\\TaxiManager.Web\\wwwroot\\",
       "BasePath": "_content/TaxiManager.Web",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js",
       "AssetKind": "All",
@@ -522,10 +539,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Identity": "C:\\Users\\spart\\Desktop\\TaxiManager\\Web\\TaxiManager.Web\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Identity": "C:\\Users\\SNikolov\\Desktop\\VTU Things\\unnamed\\TaxiManagerOnline\\Web\\TaxiManager.Web\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "SourceId": "TaxiManager.Web",
       "SourceType": "Project",
-      "ContentRoot": "C:\\Users\\spart\\Desktop\\TaxiManager\\Web\\TaxiManager.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\SNikolov\\Desktop\\VTU Things\\unnamed\\TaxiManagerOnline\\Web\\TaxiManager.Web\\wwwroot\\",
       "BasePath": "_content/TaxiManager.Web",
       "RelativePath": "lib/jquery/dist/jquery.js",
       "AssetKind": "All",
@@ -539,10 +556,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Identity": "C:\\Users\\spart\\Desktop\\TaxiManager\\Web\\TaxiManager.Web\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Identity": "C:\\Users\\SNikolov\\Desktop\\VTU Things\\unnamed\\TaxiManagerOnline\\Web\\TaxiManager.Web\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "SourceId": "TaxiManager.Web",
       "SourceType": "Project",
-      "ContentRoot": "C:\\Users\\spart\\Desktop\\TaxiManager\\Web\\TaxiManager.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\SNikolov\\Desktop\\VTU Things\\unnamed\\TaxiManagerOnline\\Web\\TaxiManager.Web\\wwwroot\\",
       "BasePath": "_content/TaxiManager.Web",
       "RelativePath": "lib/jquery/dist/jquery.min.js",
       "AssetKind": "All",
@@ -556,10 +573,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Identity": "C:\\Users\\spart\\Desktop\\TaxiManager\\Web\\TaxiManager.Web\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Identity": "C:\\Users\\SNikolov\\Desktop\\VTU Things\\unnamed\\TaxiManagerOnline\\Web\\TaxiManager.Web\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "SourceId": "TaxiManager.Web",
       "SourceType": "Project",
-      "ContentRoot": "C:\\Users\\spart\\Desktop\\TaxiManager\\Web\\TaxiManager.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\SNikolov\\Desktop\\VTU Things\\unnamed\\TaxiManagerOnline\\Web\\TaxiManager.Web\\wwwroot\\",
       "BasePath": "_content/TaxiManager.Web",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.js",
       "AssetKind": "All",
@@ -573,10 +590,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Identity": "C:\\Users\\spart\\Desktop\\TaxiManager\\Web\\TaxiManager.Web\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Identity": "C:\\Users\\SNikolov\\Desktop\\VTU Things\\unnamed\\TaxiManagerOnline\\Web\\TaxiManager.Web\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "SourceId": "TaxiManager.Web",
       "SourceType": "Project",
-      "ContentRoot": "C:\\Users\\spart\\Desktop\\TaxiManager\\Web\\TaxiManager.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\SNikolov\\Desktop\\VTU Things\\unnamed\\TaxiManagerOnline\\Web\\TaxiManager.Web\\wwwroot\\",
       "BasePath": "_content/TaxiManager.Web",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.min.js",
       "AssetKind": "All",
@@ -590,10 +607,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Identity": "C:\\Users\\spart\\Desktop\\TaxiManager\\Web\\TaxiManager.Web\\wwwroot\\lib\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.js",
+      "Identity": "C:\\Users\\SNikolov\\Desktop\\VTU Things\\unnamed\\TaxiManagerOnline\\Web\\TaxiManager.Web\\wwwroot\\lib\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.js",
       "SourceId": "TaxiManager.Web",
       "SourceType": "Project",
-      "ContentRoot": "C:\\Users\\spart\\Desktop\\TaxiManager\\Web\\TaxiManager.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\SNikolov\\Desktop\\VTU Things\\unnamed\\TaxiManagerOnline\\Web\\TaxiManager.Web\\wwwroot\\",
       "BasePath": "_content/TaxiManager.Web",
       "RelativePath": "lib/jquery-validation-unobtrusive/dist/jquery.validate.unobtrusive.js",
       "AssetKind": "All",
@@ -607,10 +624,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.js"
     },
     {
-      "Identity": "C:\\Users\\spart\\Desktop\\TaxiManager\\Web\\TaxiManager.Web\\wwwroot\\lib\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.min.js",
+      "Identity": "C:\\Users\\SNikolov\\Desktop\\VTU Things\\unnamed\\TaxiManagerOnline\\Web\\TaxiManager.Web\\wwwroot\\lib\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.min.js",
       "SourceId": "TaxiManager.Web",
       "SourceType": "Project",
-      "ContentRoot": "C:\\Users\\spart\\Desktop\\TaxiManager\\Web\\TaxiManager.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\SNikolov\\Desktop\\VTU Things\\unnamed\\TaxiManagerOnline\\Web\\TaxiManager.Web\\wwwroot\\",
       "BasePath": "_content/TaxiManager.Web",
       "RelativePath": "lib/jquery-validation-unobtrusive/dist/jquery.validate.unobtrusive.min.js",
       "AssetKind": "All",

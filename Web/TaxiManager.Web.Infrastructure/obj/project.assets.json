@@ -60,19 +60,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\VDenchev\\.nuget\\packages\\": {}
+    "C:\\Users\\SNikolov\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\TaxiManagerOnline\\Web\\TaxiManager.Web.Infrastructure\\TaxiManager.Web.Infrastructure.csproj",
+      "projectUniqueName": "C:\\Users\\SNikolov\\Desktop\\VTU Things\\unnamed\\TaxiManagerOnline\\Web\\TaxiManager.Web.Infrastructure\\TaxiManager.Web.Infrastructure.csproj",
       "projectName": "TaxiManager.Web.Infrastructure",
-      "projectPath": "D:\\TaxiManagerOnline\\Web\\TaxiManager.Web.Infrastructure\\TaxiManager.Web.Infrastructure.csproj",
-      "packagesPath": "C:\\Users\\VDenchev\\.nuget\\packages\\",
-      "outputPath": "D:\\TaxiManagerOnline\\Web\\TaxiManager.Web.Infrastructure\\obj\\",
+      "projectPath": "C:\\Users\\SNikolov\\Desktop\\VTU Things\\unnamed\\TaxiManagerOnline\\Web\\TaxiManager.Web.Infrastructure\\TaxiManager.Web.Infrastructure.csproj",
+      "packagesPath": "C:\\Users\\SNikolov\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\SNikolov\\Desktop\\VTU Things\\unnamed\\TaxiManagerOnline\\Web\\TaxiManager.Web.Infrastructure\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\VDenchev\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\SNikolov\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

@@ -1,8 +1,10 @@
 ﻿namespace TaxiManager.Services.Data.Interfaces
 {
+    using TaxiManager.Web.ViewModels.Orders;
+
     public interface IOrdersService
     {
-        void New();
+        void New(OrderAddViewModel input);
 
         void Accept(string id);
 

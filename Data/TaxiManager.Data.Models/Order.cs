@@ -19,5 +19,7 @@
         public string Destination { get; set; }
 
         public double Kilometers { get; set; }
+
+        public double Price { get; set; }
     }
 }

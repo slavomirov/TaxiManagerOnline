@@ -1,12 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "LOBzjWkK0YDmeA57xQSbYjdfuNS+e13m9VSyplCeaKZrXFDPydfP9xXOQ63ipXEnpfZtWZK1W56inx9OoReo9g==",
+  "dgSpecHash": "8PAmkMutcPCO1o2yNAq7r3t9/28bmV4WmFxlYzBsSgXxFgt4hOcMPNWVbQY4oHaeJZIm/ja0rVlkTPVe9+xLBw==",
   "success": true,
-  "projectFilePath": "D:\\TaxiManagerOnline\\Data\\TaxiManager.Data.Common\\TaxiManager.Data.Common.csproj",
+  "projectFilePath": "C:\\Users\\SNikolov\\Desktop\\VTU Things\\unnamed\\TaxiManagerOnline\\Data\\TaxiManager.Data.Common\\TaxiManager.Data.Common.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\VDenchev\\.nuget\\packages\\stylecop.analyzers\\1.2.0-beta.435\\stylecop.analyzers.1.2.0-beta.435.nupkg.sha512",
-    "C:\\Users\\VDenchev\\.nuget\\packages\\stylecop.analyzers.unstable\\1.2.0.435\\stylecop.analyzers.unstable.1.2.0.435.nupkg.sha512",
-    "C:\\Users\\VDenchev\\.nuget\\packages\\system.componentmodel.annotations\\5.0.0\\system.componentmodel.annotations.5.0.0.nupkg.sha512"
+    "C:\\Users\\SNikolov\\.nuget\\packages\\stylecop.analyzers\\1.2.0-beta.435\\stylecop.analyzers.1.2.0-beta.435.nupkg.sha512",
+    "C:\\Users\\SNikolov\\.nuget\\packages\\stylecop.analyzers.unstable\\1.2.0.435\\stylecop.analyzers.unstable.1.2.0.435.nupkg.sha512",
+    "C:\\Users\\SNikolov\\.nuget\\packages\\system.componentmodel.annotations\\5.0.0\\system.componentmodel.annotations.5.0.0.nupkg.sha512"
   ],
   "logs": []
 }
