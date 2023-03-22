@@ -5,10 +5,13 @@
 
 <div class="text-center">
     <h1 class="display-4">Welcome to @GlobalConstants.SystemName!</h1>
-    <p>Learn about <a href="https://docs.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
 
     @if (this.User.Claims.Where(x => x.Type.Contains("role")).FirstOrDefault() != null)
     {
         <h3>Role: @this.User.Claims.Where(x => x.Type.Contains("role")).FirstOrDefault().Value</h3>
+    }
+    else if(this.User.Identity.IsAuthenticated)
+    {
+        <h3>Role: User</h3>        
     }
 </div>

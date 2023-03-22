@@ -40,7 +40,7 @@
                 Location = input.Location,
                 Destination = input.Destination,
                 Kilometers = input.Kilometers,
-                Price = input.Price != null ? input.Price : 0,
+                Price = input.Price,
                 UserId = input.UserId,
             };
 

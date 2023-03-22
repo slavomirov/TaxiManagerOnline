@@ -13,38 +13,29 @@
 
 <h2 class="mb-3">First select your Location and Destination. After that click "Set Data"!</h2>
 
-<div class="row">
-    <div class="col-sm">
-        <div id="map" style='width: 800px; height: 700px;'></div>
-    </div>
-    <div class="col-sm">
-        <form method="post" enctype="multipart/form-data">
-
-        <div class="row">
-            <div class="col-sm text-sm-center">
-                <button id="calc" class="mt-3">Set Data</button>
-            </div>
-            <div class="col-sm text-sm-center">
-                <button type="submit" class="mt-3">Send Order</button>
-            </div>
+<form method="post" enctype="application/x-www-form-urlencoded">
+    <div class="row">
+        <div class="col-sm">
+            <div id="map" style='width: 800px; height: 700px;'></div>
         </div>
+        <div class="col-sm">
 
             <div class="mt-3">
                 <div>
                     <label asp-for="Location"></label>
-                    <input asp-for="Location" id="LocationInput" disabled="disabled" class="form-control" />
+                    <input asp-for="Location" id="LocationInput" readonly="readonly" class="form-control" />
                     <span asp-validation-for="Location" class="text-danger"></span>
                 </div>
 
                 <div class="mt-2">
                     <label asp-for="Destination"></label>
-                    <input asp-for="Destination" id="DestinationInput" disabled="disabled" class="form-control" />
+                    <input asp-for="Destination" id="DestinationInput" readonly="readonly" class="form-control" />
                     <span asp-validation-for="Destination" class="text-danger"></span>
                 </div>
 
                 <div class="mt-2">
                     <label asp-for="Kilometers"></label>
-                    <input asp-for="Kilometers" id="KmInput" disabled="disabled" class="form-control" />
+                    <input asp-for="Kilometers" id="KmInput" readonly="readonly" class="form-control" />
                     <span asp-validation-for="Kilometers" class="text-danger"></span>
                 </div>
 
@@ -54,12 +45,21 @@
                     <span asp-validation-for="Price" class="text-danger"></span>
                 </div>
 
+                <div class="row mt-2">
+                    <div class="col-sm text-sm-center">
+                        <button type="button" id="calc" class="btn btn-outline-secondary mt-3">Set Data</button>
+                    </div>
+                    <div class="col-sm text-sm-center">
+                        <button type="submit" class="btn btn-outline-danger mt-3">Send Order</button>
+                    </div>
+                </div>
+
             </div>
 
-        </form>
-    </div>
+        </div>
 
-</div>
+    </div>
+</form>
 
 <script>
     mapboxgl.accessToken = 'pk.eyJ1Ijoic2xhdm9taXJvdiIsImEiOiJjbGQ3ZjF3ZHIwMDczM3hzMGJtOXNzYjN0In0.2yvzQHLiFV8ybmTuGBiCZQ';

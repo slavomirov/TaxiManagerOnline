@@ -1,9 +1,16 @@
 ﻿namespace TaxiManager.Data.Models
 {
+    using System;
+
     using TaxiManager.Data.Common.Models;
 
     public class Order : BaseDeletableModel<string>
     {
+        public Order()
+        {
+            this.Id = Guid.NewGuid().ToString();
+        }
+
         public ApplicationUser User { get; set; }
 
         public string UserId { get; set; }
@@ -20,6 +27,6 @@
 
         public double Kilometers { get; set; }
 
-        public double Price { get; set; }
+        public double? Price { get; set; }
     }
 }

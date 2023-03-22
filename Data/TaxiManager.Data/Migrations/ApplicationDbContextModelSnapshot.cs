@@ -304,7 +304,7 @@ namespace TaxiManager.Data.Migrations
                         .IsUnique()
                         .HasFilter("[OwnerId] IS NOT NULL");
 
-                    b.ToTable("Cars");
+                    b.ToTable("Cars", (string)null);
                 });
 
             modelBuilder.Entity("TaxiManager.Data.Models.Image", b =>
@@ -338,7 +338,7 @@ namespace TaxiManager.Data.Migrations
                         .IsUnique()
                         .HasFilter("[CarId] IS NOT NULL");
 
-                    b.ToTable("Images");
+                    b.ToTable("Images", (string)null);
                 });
 
             modelBuilder.Entity("TaxiManager.Data.Models.Order", b =>
@@ -370,7 +370,7 @@ namespace TaxiManager.Data.Migrations
                     b.Property<DateTime?>("ModifiedOn")
                         .HasColumnType("datetime2");
 
-                    b.Property<double>("Price")
+                    b.Property<double?>("Price")
                         .HasColumnType("float");
 
                     b.Property<string>("TaxiId")
@@ -387,7 +387,7 @@ namespace TaxiManager.Data.Migrations
 
                     b.HasIndex("UserId");
 
-                    b.ToTable("Orders");
+                    b.ToTable("Orders", (string)null);
                 });
 
             modelBuilder.Entity("TaxiManager.Data.Models.Setting", b =>
@@ -420,7 +420,7 @@ namespace TaxiManager.Data.Migrations
 
                     b.HasIndex("IsDeleted");
 
-                    b.ToTable("Settings");
+                    b.ToTable("Settings", (string)null);
                 });
 
             modelBuilder.Entity("Microsoft.AspNetCore.Identity.IdentityRoleClaim<string>", b =>
