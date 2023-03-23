@@ -1,6 +1,7 @@
 ﻿namespace TaxiManager.Services.Data
 {
     using System;
+    using System.Collections.Generic;
     using System.IO;
     using System.Linq;
     using System.Security.Claims;
@@ -77,6 +78,34 @@
             await this.dbContext.AddAsync<Car>(car);
             await this.signInManager.RefreshSignInAsync(user);
             await this.dbContext.SaveChangesAsync();
+        }
+
+        public List<AvailableOrdersViewModel> GetAllAvailable(string userId)
+        {
+            var cityLiving = this.dbContext.Users.Where(x => x.Id == userId).FirstOrDefault().CityLiving;
+
+            var availableOrders = this.dbContext.Orders.Where(x => x.User.CityLiving == cityLiving).ToList();
+
+            var availableOrdersInModel = new List<AvailableOrdersViewModel>();
+
+            foreach (var order in availableOrders)
+            {
+                var user = this.dbContext.Users.Where(x => x.Id == order.UserId).FirstOrDefault();
+
+                var newOrder = new AvailableOrdersViewModel()
+                {
+                    Destination = order.Destination,
+                    Kilometers = order.Kilometers,
+                    Location = order.Location,
+                    Price = order.Price,
+                    UserFirstName = user.FirstName,
+                    UserLasstName = user.LastName,
+                };
+
+                availableOrdersInModel.Add(newOrder);
+            }
+
+            return availableOrdersInModel;
         }
     }
 }

@@ -58,5 +58,19 @@
             this.TempData["Message"] = "You are Taxi now!"; // not finished
             return this.Redirect("/");
         }
+
+        public IActionResult Finished()
+        {
+            return this.View();
+        }
+
+        public IActionResult Available()
+        {
+            var userId = this.User.FindFirstValue(ClaimTypes.NameIdentifier);
+
+            var availableOrders = this.taxisService.GetAllAvailable(userId);
+
+            return this.View(availableOrders);
+        }
     }
 }

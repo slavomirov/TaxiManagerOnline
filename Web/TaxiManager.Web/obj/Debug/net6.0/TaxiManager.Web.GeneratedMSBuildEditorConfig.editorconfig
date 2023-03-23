@@ -96,6 +96,14 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGF4aXNcQWRkLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/SNikolov/Desktop/VTU Things/unnamed/TaxiManagerOnline/Web/TaxiManager.Web/Views/Taxis/Available.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGF4aXNcQXZhaWxhYmxlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/SNikolov/Desktop/VTU Things/unnamed/TaxiManagerOnline/Web/TaxiManager.Web/Views/Taxis/Finished.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGF4aXNcRmluaXNoZWQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/SNikolov/Desktop/VTU Things/unnamed/TaxiManagerOnline/Web/TaxiManager.Web/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
